@@ -1,0 +1,249 @@
+DARK PINK #F82DA5
+LIGHT PINK #FDDCF7
+
+table {
+
+width: 75%;
+height: auto;
+table-layout: center;
+border-collapse: collapse;
+margin-left: 50%;
+margin-right: 100px;
+margin-top: 50px;
+margin-bottom: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+text-align: center;
+padding-color:#FFFF ;
+border-color:#FFFFFF ;
+;
+
+
+}
+
+
+th, td, br{
+
+border-style: inset;
+text-align: center;
+padding: 8px;
+background-color: #67AECA ;
+border-color: #FFFFFF ;
+color: #FFFFFF ;
+font-family: Arial;
+
+}
+
+
+th {
+
+background-color: #E52A6F ;
+border-color: #FFFF;
+font-family: Arial;
+color: #FFFFFF ;
+text-align: center;
+
+}
+
+h1, h2 {
+
+background-color: ##67AECA ;
+border-color: #FFFF;
+font-family: Arial;
+font-weight: 900;
+color: #FFFF ;
+text-align: center;
+
+}
+
+h3 {
+
+background-color: ##67AECA ;
+border-color: #FFFF;
+font-family: Arial;
+font-weight: 400;
+color: #FFFF ;
+text-align: center;
+font-size: 19px;
+
+}
+
+
+* {
+
+color: #FFFFFF ;
+font-family: Arial;
+background-color: #B10069 ;
+
+}
+
+div .margin, .border {
+
+background-color: #B10069 ;
+border-color: #675682 ;
+
+}
+
+.image {
+
+padding-bottom: 34x;
+margin-bottom: 20px;
+padding-top: 50px;
+background-color: #B10069
+
+}
+
+.my-button{
+  background-color: #E52A6F;
+  color: #FFFF;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  padding: 0px 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18.5px;
+  margin: 0px 5px;
+  transition-duration: 0.8s;
+  margin-bottom: 0px;
+ border-color: #E52A6F ;
+ font-family: Arial;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.my-button:hover  {
+  background-color: #11A4D3;
+  color: #FFFF;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  padding: 0px 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0px 5px;
+  transition-duration: 0.4s;
+  margin-bottom: 0px;
+ border-color: #E52A6F ;
+ font-family: Arial;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.button {
+  background-color: blue; /* Default background color */
+  color: white; /* Default text color */
+  transition: background-color 0.3s; /* Transition duration and property */
+
+  /* Additional button styles */
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: red; /* Background color on hover */
+}
+
+
+.box-part_text-center {
+
+background color: #E52A6F;
+border-color: #93203D ;
+
+}
+
+.content {
+
+width: 75%;
+height: auto;
+table-layout: auto;
+border-collapse: collapse;
+margin-left: 150px;
+margin-right: 100px;
+margin-top: 0px;
+margin-bottom: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+text-align: center;
+padding-color:#FFFF ;
+border-color:#FFFF ;
+font-size: 30px;
+
+
+}
+
+.Add-student {
+
+text-align: center;
+color:#E52A6F  ;
+font-family: Times New Roman;
+font-size: 32px;
+
+}
+
+.my-button2:hover  {
+  background-color: #8C0D2D  ;
+  color: #FFFF;
+  padding: 0px 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 5px;
+
+  margin-bottom: 0px;
+ border-color: #93203D ;
+ font-family: Times New Roman;
+
+}
+
+.back-button {
+
+background-color: #560318 ;
+border-color: #93203D ;
+padding-bottom: 4px;
+margin-bottom: 5px;
+padding-top: 5px;
+background-color: #560318;
+height: 20px;
+width: 20px;
+}
+
+}
+
+p {
+
+font-size: 50px;
+color: #675682;
+
+}
+
+input {
+
+color: pink;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:focus,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+.class{
+background-color: #FFFF;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
